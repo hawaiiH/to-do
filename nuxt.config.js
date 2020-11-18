@@ -13,7 +13,7 @@ export default {
     '@nuxtjs/eslint-module'
   ],
   router: {
-    base: '/ToDos/'
+    base: '/to-do/'
   },
   modules: [
   ],
